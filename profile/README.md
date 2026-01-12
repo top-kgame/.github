@@ -1,4 +1,4 @@
-# 🎮 Welcome to top-kgame
+# 🎮 Welcome to kgame
 
 We are building a **modular, high-performance game server ecosystem** entirely in **Java**. 
 
